@@ -17,6 +17,8 @@ Simply download this repository and add its folder to the MATLAB path.
 
 ## Example scripts
 
+See infiniteChain/simulationScripts/isingQuenchLoschmidt.m for an example of the infinite chain TDVP code
+
 ## Built With
 
 * [ncon](https://arxiv.org/abs/1402.0939) - MATLAB function for efficient tensor contractions
