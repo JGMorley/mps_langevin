@@ -17,7 +17,12 @@ Simply download this repository and add its folder to the MATLAB path.
 
 ## Example scripts
 
-See infiniteChain/simulationScripts/isingQuenchLoschmidt.m for an example of the infinite chain TDVP code
+* See infiniteChain/simulationScripts/isingQuenchLoschmidt.m for an example of the infinite chain TDVP code
+
+* See finiteChain/tutorials/tutorial_using_Hcell.m for an example of finite chain TDVP code
+
+* See finiteChain/tutorials/langevin_dephasing_only.mlx for an example of Langevin dynamics code
+
 
 ## Built With
 
