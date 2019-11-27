@@ -58,7 +58,7 @@ This figure shows a single qubit precessing around a transverse field in four ca
  3. Interacting with its environment in the dissipation dominated limit ('friction only')
  4. Interacting with its environment with both fluctuations and dissipation ('friction and noise')
 
-![noise_and_dissipation_fig](https://github.com/JGMorley/mps_langevin/finite_chain/tutorials/illustrating_noise_and_dissipation_fig.png)
+![noise_and_dissipation_fig](https://github.com/JGMorley/mps_langevin/blob/master/finiteChain/tutorials/illustrating_noise_and_dissipation_fig.png)
 
 ## Sample scripts
 
@@ -163,5 +163,5 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 * J. G. Morley and A. G. Green. *A Langevin Equation over Matrix Product States*. [in preparation]
 * J. G. Morley-Wilkinson. *Evolution of Entanglement Structure in Open Quantum Systems*. Doctoral thesis. UCL, London.
-* J. Haegeman, J. I. Cirac, T. J. Osborne, I. Pižorn, H. Verschelde, and F. Verstraete. *Time-Dependent Variational Principle for Quantum Lattices* (2011). [Phys. Rev. Lett. 107, 070601](Phys. Rev. Lett. 107, 070601 – Published 10 August 2011).
+* J. Haegeman, J. I. Cirac, T. J. Osborne, I. PiÅ¾orn, H. Verschelde, and F. Verstraete. *Time-Dependent Variational Principle for Quantum Lattices* (2011). [Phys. Rev. Lett. 107, 070601](Phys. Rev. Lett. 107, 070601 â€“ Published 10 August 2011).
 * R. N. C. Pfeifer, G. Evenbly, S. Singh, and G. Vidal. *NCON: A tensor network contractor for MATLAB*. [arXiv:1402.0939](https://arxiv.org/abs/1402.0939)
