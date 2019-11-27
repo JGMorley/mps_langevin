@@ -58,7 +58,7 @@ This figure shows a single qubit precessing around a transverse field in four ca
  3. Interacting with its environment in the dissipation dominated limit ('friction only')
  4. Interacting with its environment with both fluctuations and dissipation ('friction and noise')
 
-![noise_and_dissipation_fig](https://github.com/JGMorley/mps_langevin/blob/master/finiteChain/tutorials/illustrating_noise_and_dissipation_fig.png)
+![noise_and_dissipation_fig](https://github.com/JGMorley/mps_langevin/blob/master/finiteChain/tutorials/illustrating_fig.png)
 
 ## Sample scripts
 
