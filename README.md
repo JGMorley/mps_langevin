@@ -70,7 +70,7 @@ This figure shows a single qubit precessing around a transverse field in four ca
 
 * For an example of the infinite chain TDVP code see `infiniteChain/simulationScripts/isingQuenchLoschmidt.m`. This script performs a stress-test of the code by comparing non-analytic points in Loschmidt echoes with exactly derived results.
 
-## Some useful function in the `finiteChain/` code
+## Some useful functions in the `finiteChain/` code
 
 NB see `finiteChain/finiteChainConventions.md` to understand how matrix product states are stored as cell arrays.
 NB see `fintieChain/langevin_dynamics/EnvironmentParams` (class) to see how environment is specified.
@@ -145,6 +145,20 @@ function [local_XYZ_series,entropy_series,energy_series,gs_fidelity_series]...
 ```
 
 * Look at the other files in `finiteChain/postProcessing`
+
+## Checklist
+
+A helpful list of decisions to make before using this code to do some runs:
+
+1. System
+2. Hamiltonian
+3. Initial state
+4. Environmental coupling operators
+5. Environmental coupling strengths
+6. Environmental coupling temperatures
+7. Time to run
+8. Number of timesteps/step size
+9. Do you want to use a localised friction approximation?
 
 ## Built With
 
